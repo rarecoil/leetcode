@@ -11,4 +11,4 @@ I will update this repository in batches as I solve more LeetCode problems.
 
 ## License
 
-MIT
+Unlicense
